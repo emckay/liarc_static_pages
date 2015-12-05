@@ -51,4 +51,4 @@ In this case, LIARC decides not to fire Eric. At 00:00:00 UTC Jan 1 (the end dat
 |Alice   |100         |1000        |0                      |0                      |
 |Bob     |100         |1000        |0                      |0                      |
 
-[^1]: The PPS price does not have to be much higher to convince LIARC to adopt the proposal. If the proposal seems likely to be adopted soon, the price of actual PS will converge to the price of the PPS.
+[^1]: The PPS price does not have to be much higher to convince LIARC to adopt the proposal. If the proposal seems likely to be adopted soon, the price of actual PS will converge to the PPS price.

@@ -26,6 +26,8 @@ NOTE: Policies are in no way binding commitments by the company. The company, it
 
 1. In each transaction, the company's PCB is decreased by the amount of the increase in the user's PCB.
 
+1. The company will not issue refunds for any reason.
+
 #### Pseudo-shares
 
 1. The company's initial PSC is `900,000`.
@@ -156,4 +158,14 @@ NOTE: Policies are in no way binding commitments by the company. The company, it
 
 1. Every day at 00:00:00 UTC, starting on **LAUNCH DATE**, the company will submit a limit order on the PS market to sell `1,000 PS` at `10 PC` per share.
 
-1. The auctions will continue until the company is left with 50% of TPSO.
+1. The auctions will continue until the company is left with 75% of TPSO.
+
+#### Website details
+
+1. The website is hosted on Heroku's Hobby Plan.
+
+1. One web dyno and one worker dyno are enabled, which costs $14/month.
+
+1. The website uses CloudFlare to provide a DNS and security services.
+
+1. The domain name, liarc.com, is registered at namecheap.com ($5.88/year for the first year, then $10.69/year)

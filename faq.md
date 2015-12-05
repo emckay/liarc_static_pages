@@ -4,7 +4,7 @@
 
 LIARC is a real company. LIARC is a game, an experiment, and an art project.
 
-Inspired by market-based decision making (see Futarchy), variable rules games (see Nomic), and recent successes in crowd governance (see Twitch Plays Pokemon) LIARC takes all its actions based on the wisdom of the crowd aggregated by decision markets.
+Inspired by market-based decision making (see [Futarchy](http://mason.gmu.edu/~rhanson/futarchy.html)), variable rules games (see [Nomic](https://en.wikipedia.org/wiki/Nomic)), and recent successes in crowd governance (see [Twitch Plays Pokemon](https://en.wikipedia.org/wiki/Twitch_Plays_Pok%C3%A9mon)) LIARC takes all its actions based on the wisdom of the crowd aggregated by decision markets.
 
 In its initial form, LIARC is a real company with no revenue, no products, and no way even to develop products. At the moment, LIARC only has a basic accounting system and a framework for making decisions. To succeed, LIARC will need market participants to fill in the blanks.
 
@@ -18,7 +18,7 @@ In the form of pseudo-cash, LIARC pays out all of its net income each month to h
 
 Any user can purchase pseudo-shares with pseudo-cash in the pseudo-share market.
 
-#### Potential pseudo-shares and potential pseudo-cash
+#### What are potential pseudo-shares and potential pseudo-cash?
 
 Users can also purchase **potential pseudo-shares** (PPS) with **potential pseudo-cash** (PPC). PPS and PPC convert into their non-potential (actual) counterparts when certain trigger conditions are met. Each class of PPS/PPC also has an end date. If the end date is reached and the trigger conditions haven't been fulfilled, the PPS/PPC are canceled and the holders are in the same position  they would have been if they had never bought or sold PPS.
 
@@ -41,17 +41,3 @@ LIARC will attempt to implement all policies proposed by PPS that trade at price
 #### Decision market example
 
 [See here](/decision_market_example)
-
-#### LIARC's current situation
-
-LIARC's current policies detail user accounts, the accounting procedure used to calculate monthly net income, and the mechanics of decision markets.
-
-Under the current policies, LIARC generates no net income, does not penalize users for insolvency, has no way to amortize costs, has no way to allocate specific amounts of time or money among various projects, has no mechanism to split shares, and has many other shortcomings.
-
-LIARC has one employee, Eric McKay, who acts as the sole administrator and moderator.
-
-LIARC has `1,000,000` shares outstanding, a USD cash balance of `5,000 USD`, and a PC balance of `-500,000 PC`.
-
-LIARC owns `900,000 PS`, and Eric owns `100,000 PS`.
-
-Every day, starting on **LAUNCH DATE**, LIARC will issue a limit order selling `1,000 PS` at `10 PC` per share at `00:00:00 UTC`. This will continue every day until LIARC has submitted orders for `400,000 PS` of the total shares outstanding.
