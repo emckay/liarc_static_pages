@@ -28,7 +28,7 @@ LIARC's current [policies](/policies) detail user accounts, the accounting proce
 
 Under the current policies, LIARC generates no net income, does not penalize users for insolvency, has no way to amortize costs, has no way to allocate limited time or money among various projects, has no mechanism to split shares, and has many other shortcomings.
 
-LIARC has one employee, Eric McKay, who acts as the sole administrator and moderator. The website was coded quickly, so there are possibly bugs and there will certainly be performance issues as then number of users grows.
+LIARC has one employee, Eric McKay, who acts as the sole administrator and moderator. The website was coded quickly, so there are possibly bugs, and there will certainly be performance issues as then number of users grows.
 
 There are `1,000,000` pseudo-shares outstanding. LIARC has a USD cash balance of `5,000 USD`, and a PC balance of `-500,000 PC`. The cash balance is the result of a sale of `10%` of the pseudo-shares for `5,000 USD` to Eric.
 
