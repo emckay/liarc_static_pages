@@ -156,7 +156,7 @@ NOTE: Policies are in no way binding commitments by the company. The company, it
 
 #### Initial pseudo-share auction
 
-1. Every day at 00:00:00 UTC, starting on **LAUNCH DATE**, the company will submit a limit order on the PS market to sell `1,000 PS` at `10 PC` per share.
+1. Every day at 00:00:00 UTC, starting on **LAUNCH DATE**, the company will submit a limit order on the PS market to sell `1,000 PS` at `50 PC` per share.
 
 1. The auctions will continue until the company is left with 75% of TPSO.
 
